@@ -4,7 +4,7 @@
 
 MyFlights is a flight booking application built using modern web technologies like React, Redux, and Vite. It allows users to search for flights, view flight details, and book flights through an intuitive user interface.</br>
 
-Features</br>
+Features </br>
 
     •	Flight Booking: Book flights with dynamic pricing and view detailed flight information. </br>
     
