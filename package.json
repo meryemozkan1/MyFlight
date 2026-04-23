@@ -1,5 +1,6 @@
 {
   "name": "myflights",
+  "homepage": "https://meryemozkan1.github.io/MyFlight",
   "private": true,
   "version": "0.0.0",
   "type": "module",
